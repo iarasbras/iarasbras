@@ -9,12 +9,12 @@
 	<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F5AF0,100:C792EA&height=3&section=header" width="100%"/>
 </p>
 
-<h2>About Me</h2>
+<h2 align="center">* About Me *</h2>
 
-<p>
-	Computer Engineering student at FEUP.<br/>
-	Interested in software engineering, web and mobile development, and frontend work.<br/>
-	Focused on building clean, well-structured projects and improving how I collaborate in teams.
+<p align="left">
+	★ Computer Engineering student at FEUP.<br/>
+	★ Interested in software engineering, web and mobile development, and frontend work.<br/>
+	★ Focused on building clean, well-structured projects and improving how I collaborate in teams.
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@
 	<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F5AF0,100:C792EA&height=3&section=header" width="100%"/>
 </p>
 
-<h2>Current Projects</h2>
+<h2 align="center">* Current Projects *</h2>
 
 | UC | Project Name | Main Tech | Description |
 |---|---|---|---|
@@ -42,7 +42,7 @@
 | LTW | [CozyStays](https://github.com/iarasbras/LTW-feup-CozyStays) | PHP | Accommodation booking web app for guests, hosts, and admins. |
 | FSI | [Labs](https://github.com/iarasbras/FSI-feup-Labs) | Security / Labs | SeedLabs practical work for the Informatics Security Fundamentals course. |
 
-<h2>Contact Me</h2>
+<h2 align="center">* Contact Me *</h2>
 <p align="center">
 	<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F5AF0,100:C792EA&height=3&section=header" width="100%"/>
 </p>
