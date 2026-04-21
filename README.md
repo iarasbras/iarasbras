@@ -11,9 +11,11 @@
 
 <h2>About Me</h2>
 
-- Computer Engineering student at FEUP
-- Interested in software engineering, web and mobile development, and frontend work
-- Focused on building clean, well-structured projects and improving how I collaborate in teams
+<p>
+	Computer Engineering student at FEUP.<br/>
+	Interested in software engineering, web and mobile development, and frontend work.<br/>
+	Focused on building clean, well-structured projects and improving how I collaborate in teams.
+</p>
 
 <p align="center">
 	<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F5AF0,100:C792EA&height=3&section=header" width="100%"/>
