@@ -39,6 +39,7 @@
 | LBAW | [Liberato](https://github.com/iarasbras/LBAW-feup-Liberato) | Blade | Laravel web platform for discovering, buying, and reviewing books. |
 | BD | [MobilityDB](https://github.com/iarasbras/BD-feup-MobilityDB) | SQL / DB | Relational database for managing student mobility applications and placements. |
 | AED | [Schedules](https://github.com/iarasbras/AED-feup-Schedules-project1) | C++ | University timetable manager with student search, class views, and request handling. |
+| LDTS | [SnakeGame](https://github.com/iarasbras/LDTS-feup-SnakeGame) | Java | Modern Snake remake with Lanterna, multiple game modes, score tracking, and MVC architecture. |
 | PROG | [svgtopng](https://github.com/iarasbras/Prog-feup-svgtopng) | C++ | SVG-to-PNG converter with custom parsing and rasterization. |
 | LTW | [CozyStays](https://github.com/iarasbras/LTW-feup-CozyStays) | PHP | Accommodation booking web app for guests, hosts, and admins. |
 | FSI | [Labs](https://github.com/iarasbras/FSI-feup-Labs) | Security / Labs | SeedLabs practical work for the Informatics Security Fundamentals course. |
