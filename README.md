@@ -9,17 +9,14 @@
 	<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F5AF0,100:C792EA&height=3&section=header" width="100%"/>
 </p>
 
-<h2 align="center">* About Me *</h2>
-
-<p align="left">
-	★ Computer Engineering student at FEUP.<br/>
-	★ Interested in software engineering, web and mobile development, and frontend work.<br/>
-	★ Focused on building clean, well-structured projects and improving how I collaborate in teams.
-</p>
-
-<p align="center">
-	<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F5AF0,100:C792EA&height=3&section=header" width="100%"/>
-</p>
+<div align="center">
+	<h3 align="center">⭒  About Me  ⭒</h3>
+	<div style="max-width: 700px; text-align: left; margin: 0 auto;">
+		<p>★ Computer Engineering student at FEUP.</p>
+		<p>★ Interested in software engineering, web and mobile development, and frontend work.</p>
+		<p>★ Focused on building clean, well-structured projects and improving how I collaborate in teams.</p>
+	</div>
+</div>
 
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iarasbras&layout=compact&langs_count=8&title_color=C792EA&text_color=EBDCFF&bg_color=0D1117&border_color=B79CED" alt="Most used languages" />
@@ -42,14 +39,12 @@
 | LTW | [CozyStays](https://github.com/iarasbras/LTW-feup-CozyStays) | PHP | Accommodation booking web app for guests, hosts, and admins. |
 | FSI | [Labs](https://github.com/iarasbras/FSI-feup-Labs) | Security / Labs | SeedLabs practical work for the Informatics Security Fundamentals course. |
 
-<h2 align="center">* Contact Me *</h2>
-<p align="center">
-	<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F5AF0,100:C792EA&height=3&section=header" width="100%"/>
-</p>
-
-- LinkedIn: [linkedin.com/in/iara-brás-226b9a404](https://linkedin.com/in/iara-brás-226b9a404)
-- Email: [iaracsbras@gmail.com](mailto:iaracsbras@gmail.com)
-
-
+<div align="center">
+	<h3 align="center">⭒  Contact Me  ⭒</h3>
+	<div style="max-width: 700px; text-align: left; margin: 0 auto;">
+		<p>★ LinkedIn: [linkedin.com/in/iara-brás-226b9a404](https://linkedin.com/in/iara-brás-226b9a404)</p>
+		<p>★ Email: [iaracsbras@gmail.com](mailto:iaracsbras@gmail.com)</p>
+	</div>
+</div>
 
 
